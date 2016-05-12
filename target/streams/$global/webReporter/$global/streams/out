@@ -1,4 +1,13 @@
-[0m[[31merror[0m] [0m/Users/sallyp/Downloads/codes/Visier/ubc2016may/app/assets/javascripts/view/employeesComponent.ts:18: ',' expected.[0m
-[0m[[31merror[0m] [0m    	return this._employeeService.findEmployeeById(id: number);[0m
-[0m[[31merror[0m] [0m    	                                                ^[0m
-[0m[[31merror[0m] [0mone error found[0m
+[0m[[31merror[0m] [0m/Users/sallyp/Downloads/codes/Visier/ubc2016may/app/assets/javascripts/model/performance.ts:7: ',' expected.[0m
+[0m[[31merror[0m] [0m	public static fromJson(data: any): Performance {[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0m/Users/sallyp/Downloads/codes/Visier/ubc2016may/app/assets/javascripts/model/performance.ts:7: '=' expected.[0m
+[0m[[31merror[0m] [0m	public static fromJson(data: any): Performance {[0m
+[0m[[31merror[0m] [0m	                      ^[0m
+[0m[[31merror[0m] [0m/Users/sallyp/Downloads/codes/Visier/ubc2016may/app/assets/javascripts/model/performance.ts:7: '=>' expected.[0m
+[0m[[31merror[0m] [0m	public static fromJson(data: any): Performance {[0m
+[0m[[31merror[0m] [0m	                                               ^[0m
+[0m[[31merror[0m] [0m/Users/sallyp/Downloads/codes/Visier/ubc2016may/app/assets/javascripts/model/performance.ts:14: ',' expected.[0m
+[0m[[31merror[0m] [0m}[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mfour errors found[0m

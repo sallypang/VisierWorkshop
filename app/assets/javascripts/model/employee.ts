@@ -17,6 +17,7 @@ export class Employee {
             data.age,
             data.location,
             data.fteFactor,
-            data.orgID)
+            data.orgID
+        )
     }
 }
