@@ -1,0 +1,27 @@
+<div>
+    <h1>Employees</h1>
+    <ul>
+        <table border="1" width="95%">
+            <thead>
+            <tr>
+                <td width="20%">EmployeeID</td>
+                <td width="20%">Name</td>
+                <td width="20%">Age</td>
+                <td width="20%">Location</td>
+                <td width="10%">Factor</td>
+                <td width="10%">OrgId</td>
+            </tr>
+            </thead>
+            <tbody *ngFor="#employee of employees">
+            <tr>
+                <td width="20%">{{employee.employeeID}}</td>
+                <td width="20%">{{employee.name}}</td>
+                <td width="20%">{{employee.age}}</td>
+                <td width="20%">{{employee.location}}</td>
+                <td width="10%">{{employee.fteFactor}}</td>
+                <td width="10%">{{employee.orgID}}</td>
+            </tr>
+            </tbody>
+        </table>
+    </ul>
+</div>

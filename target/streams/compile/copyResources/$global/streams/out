@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/sallyp/Downloads/codes/Visier/ubc2016may/conf/application.conf,/Users/sallyp/Downloads/codes/Visier/ubc2016may/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sallyp/Downloads/codes/Visier/ubc2016may/conf/logback.xml,/Users/sallyp/Downloads/codes/Visier/ubc2016may/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/sallyp/Downloads/codes/Visier/ubc2016may/conf/routes,/Users/sallyp/Downloads/codes/Visier/ubc2016may/target/scala-2.11/classes/routes)[0m

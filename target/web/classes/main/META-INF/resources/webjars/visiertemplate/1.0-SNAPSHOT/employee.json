@@ -1,0 +1,161 @@
+[{
+  "employeeID": 1,
+  "name": "Bruno",
+  "gender": "M",
+  "age": 55,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Sales"
+},{
+  "employeeID": 2,
+  "name": "Bridget",
+  "gender": "F",
+  "age": 65,
+  "location": "Denmark",
+  "fteFactor": 1,
+  "orgID": "HR"
+},{
+  "employeeID": 3,
+  "name": "Anakin",
+  "gender": "M",
+  "age": 27,
+  "location": "Coruscant",
+  "fteFactor": 0.5,
+  "orgID": "HR"
+},{
+  "employeeID": 4,
+  "name": "Lela",
+  "gender": "F",
+  "age": 20,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Product"
+},{
+  "employeeID": 5,
+  "name": "Derrick",
+  "gender": "M",
+  "age": 45,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "IT"
+},{
+  "employeeID": 6,
+  "name": "Devin",
+  "gender": "M",
+  "age": 47,
+  "location": "USA",
+  "fteFactor": 1,
+  "orgID": "Sales"
+},{
+  "employeeID": 7,
+  "name": "Sammi",
+  "gender": "F",
+  "age": 21,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Product"
+},{
+  "employeeID": 8,
+  "name": "Marla",
+  "gender": "F",
+  "age": 36,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Legal"
+},{
+  "employeeID": 9,
+  "name": "Lenard",
+  "gender": "M",
+  "age": 27,
+  "location": "Canada",
+  "fteFactor": 0.5,
+  "orgID": "IT"
+},{
+  "employeeID": 10,
+  "name": "Kayla",
+  "gender": "F",
+  "age": 34,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Sales"
+},{
+  "employeeID": 11,
+  "name": "Tasha",
+  "gender": "F",
+  "age": 34,
+  "location": "USA",
+  "fteFactor": 1,
+  "orgID": "Sales"
+},{
+  "employeeID": 12,
+  "name": "Christal",
+  "gender": "F",
+  "age": 27,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Sales"
+},{
+  "employeeID": 13,
+  "name": "Dustin",
+  "gender": "M",
+  "age": 35,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Legal"
+},{
+  "employeeID": 14,
+  "name": "Cassidy",
+  "gender": "F",
+  "age": 23,
+  "location": "USA",
+  "fteFactor": 0.5,
+  "orgID": "Services"
+},{
+  "employeeID": 15,
+  "name": "Marilou",
+  "gender": "F",
+  "age": 59,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "HR"
+},{
+  "employeeID": 16,
+  "name": "Lessie",
+  "gender": "F",
+  "age": 54,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Product"
+},{
+  "employeeID": 17,
+  "name": "Dominick",
+  "gender": "M",
+  "age": 47,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Services"
+},{
+  "employeeID": 18,
+  "name": "Janey",
+  "gender": "F",
+  "age": 50,
+  "location": "Denmark",
+  "fteFactor": 1,
+  "orgID": "Sales"
+},{
+  "employeeID": 19,
+  "name": "Madison",
+  "gender": "F",
+  "age": 36,
+  "location": "Canada",
+  "fteFactor": 0.5,
+  "orgID": "Services"
+},{
+  "employeeID": 20,
+  "name": "Joel",
+  "gender": "M",
+  "age": 60,
+  "location": "Canada",
+  "fteFactor": 1,
+  "orgID": "Services"
+}]

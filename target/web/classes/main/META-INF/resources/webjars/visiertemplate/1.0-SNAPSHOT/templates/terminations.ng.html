@@ -1,0 +1,21 @@
+<div>
+    <h1>Terminations</h1>
+    <ul>
+        <table border="1" width="95%">
+            <thead>
+            <tr>
+                <td width="20%">EmployeeID</td>
+                <td width="40%">Date</td>
+            </tr>
+            </thead>
+            <tbody *ngFor="#termination of terminations" (click)="onSelect(termination)">
+            <tr>
+                <td width="20%">{{termination.employeeID}}</td>
+                <td width="80%">{{termination.terminationDate}}</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div>{{termMessage}}</div>
+    </ul>
+</div>

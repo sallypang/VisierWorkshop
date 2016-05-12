@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt-typescript-0.1.10.2-Visier1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/project/target/typescript/sbt-typescript-0.1.10.2-Visier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
